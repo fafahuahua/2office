@@ -1,0 +1,100 @@
+{
+    "teams": [
+      {
+        "team_name": "文献猎手",
+        "total_score": 85,
+        "category_scores": {
+          "content_quality": {
+            "total": 25,
+            "sub_scores": {
+              "coverage": 8,
+              "structure": 9,
+              "relevance": 8
+            }
+          },
+          "citation_quality": {
+            "total": 24,
+            "sub_scores": {
+              "citation_recall": 8,
+              "citation_precision": 8,
+              "citation_count": 8
+            }
+          },
+          "generation_speed": 18,
+          "committee_evaluation": 18
+        }
+      },
+      {
+        "team_name": "MINSlab综述小队",
+        "total_score": 76,
+        "category_scores": {
+          "content_quality": {
+            "total": 22,
+            "sub_scores": {
+              "coverage": 7,
+              "structure": 7,
+              "relevance": 8
+            }
+          },
+          "citation_quality": {
+            "total": 21,
+            "sub_scores": {
+              "citation_recall": 7,
+              "citation_precision": 7,
+              "citation_count": 7
+            }
+          },
+          "generation_speed": 16,
+          "committee_evaluation": 17
+        }
+      },
+      {
+        "team_name": "Nexus",
+        "total_score": 82,
+        "category_scores": {
+          "content_quality": {
+            "total": 24,
+            "sub_scores": {
+              "coverage": 8,
+              "structure": 8,
+              "relevance": 8
+            }
+          },
+          "citation_quality": {
+            "total": 23,
+            "sub_scores": {
+              "citation_recall": 8,
+              "citation_precision": 8,
+              "citation_count": 7
+            }
+          },
+          "generation_speed": 17,
+          "committee_evaluation": 18
+        }
+      },
+      {
+        "team_name": "有志青年",
+        "total_score": 80,
+        "category_scores": {
+          "content_quality": {
+            "total": 23,
+            "sub_scores": {
+              "coverage": 8,
+              "structure": 7,
+              "relevance": 8
+            }
+          },
+          "citation_quality": {
+            "total": 22,
+            "sub_scores": {
+              "citation_recall": 7,
+              "citation_precision": 8,
+              "citation_count": 7
+            }
+          },
+          "generation_speed": 18,
+          "committee_evaluation": 17
+        }
+      }
+    ]
+  }
